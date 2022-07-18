@@ -1,2 +1,2 @@
 # fdsw-github
-Test
+Curriculum actualizado el 18/07/2022
